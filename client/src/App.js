@@ -21,6 +21,7 @@ class App extends Component {
             <Route path="/otherpage" component={OtherPage} />
           </div>
         </div>
+        
       </Router>
     );
   }
